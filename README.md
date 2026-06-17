@@ -132,7 +132,7 @@ To develop practical IT support and system administration skills in a controlled
    - GPO created and linked to enforce restrictions
 
 10. Access Denied Test  
-   - Demonstration of permission enforcement using restricted access attempt
+    - Demonstration of permission enforcement using restricted access attempt
 
 ---
 
